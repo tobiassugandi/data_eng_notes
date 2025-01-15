@@ -1,3 +1,8 @@
+data-engineering-zoomcamp/
+01-docker-terraform/docker_sql/ny_taxi_postgres_data/
+01-docker-terraform/docker_sql/pgadmin-config/
+.DS_Store
+
 *.csv
 *.parquet
 
